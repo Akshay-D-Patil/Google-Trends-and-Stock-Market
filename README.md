@@ -1,4 +1,4 @@
-# ML-FInal-Project
+# ML-Group5-Project
 Repository for final project fr ML ITCS class 
 
 Project: Google Trends and Stock Market
