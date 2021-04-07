@@ -6,4 +6,7 @@ Project: Google Trends and Stock Market
 Author: Akshay Patil
 
 Description:
-Making use of Google Trend Index of specific keywords to classify the Dow Jones Market index based on weekly log returns. 
+• Scraped 5 years of weekly google trend index (GTI) from google trends website for set of 98 keywords using
+Pytrends API and merged into single csv file dataset using pandas in python
+• Analysed DJI’s weekly returns and GTI data, by implementing deep learning models like LSTM and Convolutional neural network using Keras library to classify the returns (test data) as negative or positive
+
